@@ -27,8 +27,7 @@ In my journey to learn web development and front-end interfaces, I designed a we
 
 ## 🌐 Live Demo
 Check out the live version here:  
-[https://Baraajad231.github.io/vpn-landing-page/](https://Baraajad231.github.io/vpn-landing-page/)
-
+[https://baraajad231.github.io/VPN-Landing-Pade/](https://baraajad231.github.io/VPN-Landing-Pade/)
 
 ## 🛠️ Built With
 - HTML5  
